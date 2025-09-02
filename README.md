@@ -6,7 +6,7 @@
 - Meinisa
 - Rizki Adrian Bennovry
 - Sarah Natalia Geraldine
-- 
+
 ---
 
 ## 📱 **About the Project**
